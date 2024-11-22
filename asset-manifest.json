@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Diet-Calc/static/css/main.67e67564.css",
+    "main.js": "/Diet-Calc/static/js/main.c6e63961.js",
+    "static/js/453.d19eca40.chunk.js": "/Diet-Calc/static/js/453.d19eca40.chunk.js",
+    "index.html": "/Diet-Calc/index.html",
+    "main.67e67564.css.map": "/Diet-Calc/static/css/main.67e67564.css.map",
+    "main.c6e63961.js.map": "/Diet-Calc/static/js/main.c6e63961.js.map",
+    "453.d19eca40.chunk.js.map": "/Diet-Calc/static/js/453.d19eca40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e67564.css",
+    "static/js/main.c6e63961.js"
+  ]
+}
