@@ -23,7 +23,7 @@ function Addition() {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    setAnswer((num1 * num2) / num3);
+    setAnswer(Math.floor((num1 * num2) / num3));
   };
 
   return (
